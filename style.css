@@ -23,7 +23,7 @@
     padding: 10px 20px;
     background-color: blue;
     color: rgb(244, 248, 251);
-    text-decoration: none;
+    text-decoration: nome;
     border-radius: 5px;
 }
 .boton:hover{
